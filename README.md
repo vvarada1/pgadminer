@@ -1,3 +1,3 @@
 # pgadminer
 
-https://pgadminer.herokuapp.com/adminer/index.php
+https://postgress-admin.herokuapp.com/adminer/index.php
